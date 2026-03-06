@@ -1,6 +1,10 @@
 # 👋 Hi, I'm AbdelRahman Hamdy
 
 <p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+PHP%2FLaravel+Web+Developer)](https://git.io/typing-svg)
+</p>
+
+<p align="center">
   <img src="./assets/abdelrahman-banner.png" alt="Full Stack PHP Laravel Web Developer banner" width="100%" />
 </p>
 
