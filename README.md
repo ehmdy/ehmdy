@@ -63,6 +63,6 @@ I’m a full stack web developer who enjoys transforming ideas into practical di
 
 > “Good software should solve problems clearly, scale smoothly, and stay easy to maintain.”
 
-<p align="left">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
