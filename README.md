@@ -1,7 +1,7 @@
 # 👋 Hi, I'm AbdelRahman Hamdy
 
 <p align="center">
-<img [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+PHP%2FLaravel+Web+Developer)](https://git.io/typing-svg) />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+PHP%2FLaravel+Web+Developer;Building+scalable+web+applications;API+development+%E2%80%A2+Clean+architecture+%E2%80%A2+Modern+UI&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="center">
